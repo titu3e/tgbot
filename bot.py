@@ -11,7 +11,7 @@ from base import Session
 
 load_dotenv()
 
-TOKEN = os.getenv('TOKEN')
+TOKEN = os.getenv('5016713832:AAFanQaM9w7R6H0KvCW8LoxDTK5-yu1ui9E')
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
